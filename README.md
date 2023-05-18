@@ -1,4 +1,4 @@
-# AR-Face-Draw
+# AR-Face-Draw (For IOS)
 AR-Face-Draw is a project that combines RealityKit's face detection with PencilKit to implement virtual face-painting. This project allows users to use their iPad or iPhone running iOS 15.0+ or iPadOS 15.0+ respectively to paint on their own faces or the faces of others in augmented reality.
 
 ## Requirements
